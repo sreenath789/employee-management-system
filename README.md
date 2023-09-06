@@ -131,7 +131,7 @@ The Employee Management System using Spring Boot is a user-friendly and efficien
 
 👤 **Sreenath Golla**
 
-* GitHub: [Sreenath Golla](https://github.com/sreenath789/blogging-project/tree/main/blogging-project)
+* GitHub: [Sreenath Golla](https://github.com/sreenath789/employee-management-system)
 
 ---
 
